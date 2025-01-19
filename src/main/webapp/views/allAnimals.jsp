@@ -31,11 +31,5 @@
     <button onclick="location.href='/views/newAnimalForm.html'">create new animal</button>
 </div>
 
-<form action="http://localhost:8080/castle" method="post">
-    <p> <input type="type" name="name"> </p>
-    <p> <textarea rows="20" cols="40" name="text" type="type"></textarea> </p>
-    <p> <input type="submit" text="sendAnimal"></p>
-</form>
-
 </body>
 </html>

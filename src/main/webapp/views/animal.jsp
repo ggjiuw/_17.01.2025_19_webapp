@@ -19,10 +19,5 @@
         <div>
             <button onclick="location.href='/castle'">Back to list</button>
         </div>
-
-        <h1>This is animals castle</h1>
-
-        <img src="castle.jpeg">
-
     </body>
 </html>
